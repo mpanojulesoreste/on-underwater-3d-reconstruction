@@ -175,3 +175,7 @@ cython_debug/
 # VSCode
 .vscode
 /images
+/results
+apriltag_results_1.csv
+apriltag_results.csv
+analyze_apriltag.py
